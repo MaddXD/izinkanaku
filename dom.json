@@ -1,6 +1,6 @@
 {
     "valid_domains": [
-        "example.com",
+        "localhost",
         "anotherdomain.com",
         "mywebsite.org"
     ]
